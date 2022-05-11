@@ -1,0 +1,24 @@
+.heading{   
+    padding: 5%;
+    font-size: 151px;
+    font-weight: 100px;
+    font-style: normal;
+    font-family: monospace;
+}
+
+.main-content{
+    margin:0 auto;
+}
+
+.main-content h5 a{
+	padding:2px;
+	display:block;
+    color:#ffc107 ;
+    text-decoration: none;
+    border-radius: 25px;
+}
+
+.main-content h5 a:hover{
+	background-color: #111111;
+    color: #ffc107;
+}

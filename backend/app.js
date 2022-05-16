@@ -13,6 +13,14 @@ app.get("/",(req,res) => {
     res.render("index")
 });
 
+app.get("/vigyanvihar",(req,res) => {
+    res.render("vigyanvihar")
+});
+
+app.get("/awaz",(req,res) => {
+    res.render("awaz")
+});
+
 //Create Server
 app.listen(port, (err) =>  {
     if(err)

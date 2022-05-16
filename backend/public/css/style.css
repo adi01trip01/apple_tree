@@ -1,9 +1,8 @@
 .heading{   
-    padding: 5%;
-    font-size: 151px;
+    font-size: 99px;
     font-weight: 100px;
     font-style: normal;
-    font-family: monospace;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .main-content{
@@ -21,4 +20,8 @@
 .main-content h5 a:hover{
 	background-color: #111111;
     color: #ffc107;
+}
+.under{
+    margin-left: 25%;
+    margin-top: 5%;
 }
